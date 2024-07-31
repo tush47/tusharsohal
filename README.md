@@ -56,32 +56,3 @@ This is the repository for my personal portfolio website, showcasing my projects
   ```sh
   npm run start
   ...
-
-  The website should now be running on http://localhost:3000.
-  
-6.  ## Deployment
-  The site is deployed on Vercel. Follow these steps to deploy:
-  
-  Connect to Vercel
-  
-##  Sign up on Vercel.
-  Connect your GitHub repository to Vercel.
-##  Deploy
-  
-  Vercel will automatically build and deploy your project.
-  Configure your environment variables on Vercel similar to your .env file.
-  Project Structure
-  src/components: Contains reusable React components.
-  src/pages: Contains the main pages of the website.
-  src/styles: Contains the CSS and styling files.
-  src/utils: Contains utility functions and helpers.
-  Contributing
-  Contributions are welcome! Please fork the repository and submit a pull request for review.
-
-##  License
-  This project is licensed under the MIT License - see the LICENSE file for details.
-  
-##  Contact
-  For any questions or issues, please contact me at tusharsohal@example.com.
-  
-  Thank you for visiting my portfolio!
